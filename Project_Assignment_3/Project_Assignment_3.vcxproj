@@ -21,9 +21,6 @@
   <ItemGroup>
     <ClCompile Include="rps.c" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="rps.h" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
